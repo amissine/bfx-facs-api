@@ -12,7 +12,7 @@
     "bitfinex"
   ],
   "dependencies": {
-    "bfx-facs-base": "git+https://github.com/bitfinexcom/bfx-facs-base.git"
+    "bfx-facs-base": "git+https://github.com/amissine/bfx-facs-base.git"
   },
   "engine": {
     "node": ">=8.0"
